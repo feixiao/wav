@@ -1,4 +1,4 @@
-module simpleRead
+module simpleReadEvery
 
 replace github.com/feixiao/wav v0.0.0 => ../../
 

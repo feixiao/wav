@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/cryptix/wav"
+	"github.com/feixiao/wav"
 
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/plotter"

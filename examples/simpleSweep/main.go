@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cryptix/wav"
+	"github.com/feixiao/wav"
 )
 
 const (

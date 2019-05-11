@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cryptix/wav"
+	"github.com/feixiao/wav"
 )
 
 // Demux a 2 channel audio file and save the left channel as a mono file
